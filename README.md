@@ -1,18 +1,46 @@
-# 💫 About Me:
-🔭 I’m currently working on my Machine Learning Portofolio<br>🤝 I’m looking for help with Deep Learning understanding<br>🌱 I’m currently learning about Neural Networks<br>
+# About Me
+
+I am a student of Applied Electronics at the Faculty of Electronics, Telecommunications and Information Technology. I have strong interests in deep learning, embedded systems, hardware design and data-driven systems. Through my education and self-driven projects, I aim to grow into a DeepTech Engineer capable of combining software intelligence with hardware systems.
+
+## Education & Background
+
+- Bachelor in Applied Electronics (in progress)  
+- Experienced in software and hardware: ML & AI, advanced computer vision knowledge, web development, circuit design, PCB layout, embedded programming  
+- Previous internship: I worked as a DevOps Engineer in a project based company 
+
+## Skills & Technologies
+
+- Programming: Python, C , C++, JavaScript  
+- Machine Learning / Deep Learning: intermediate-to-advanced knowledge; interest in further study and projects  
+- Embedded systems & hardware: circuit design, PCB layout, hardware–software integration  
+- Data analytics, telecommunication fundamentals; familiarity with data center, 5G and cloud-related concepts  
+
+## Personal Projects & Repositories
+
+Here are some of my relevant repositories (public) illustrating my skills and interests.  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/tudor-adrian-cristea-2674932b8) 
+- **BlindAid**— Description: An implementation of Computer Vision state-of-the-art models when guiding visually impaired people safely, being a virtual guide dog.
+- **Resume-Website** — Description: This repository features a website that I created in order to showcase my work in a more novel way.  
+- **gitops-repo** — Description: This project demonstrates a complete, end-to-end CI/CD lifecycle for a web application using modern DevOps tools and the GitOps methodology.  
+- **Custom-Neural-Nets-on-CIFAR** — Description: This repository serves as an experimental way of implementing different arhitectures (such as VGG and ResNet) from scratch and seeing the differences from state-of-the art models.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditudor30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditudor30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditudor30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=aditudor30&icon=0&color=0)](https://visitcount.itsvg.in)
+## Current Focus: Bachelor Thesis, Research & Future Grad Studies
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am currently working on my bachelor thesis — a scientific research project in **3D Motion Object Tracking**. The aim is to design and implement a robust 3D motion tracking system that leverages my background in electronics, embedded systems, and machine learning. I plan to complete and present this thesis in a conference in spring of next year.
+
+Given my interest in advanced topics and deep-tech, after graduation I intend to pursue a **Master’s degree or a research-oriented track**, where I can further explore machine learning / deep learning, hardware-software integration, signal processing or embedded AI.  
+
+## What I am Looking For
+
+At this stage I am open to and actively seeking:  
+
+- Internships or junior-level positions in areas like data analytics, cloud/DevOps, cybersecurity, data-center infrastructure, 5G / telecom, embedded systems, or deep-tech development.  
+- Research opportunities (Master’s programs, research assistant positions, collaborative academic projects) especially in fields combining hardware, AI, embedded systems or motion tracking / computer vision / signal processing.  
+- Mentorship or involvement in long-term R&D projects where I can contribute with both hardware and software skills.  
+
+## Contact & How to Explore My Work
+
+You can find all my public repositories on my GitHub profile. For more detailed contact or portfolio information (LinkedIn, email, CV) please check the links in my GitHub bio.  
+
